@@ -1,0 +1,29 @@
+a{
+    color: darkorange;
+    text-decoration: overline;
+  }
+  
+  img{
+    width: 100%;
+  }
+  
+  h1{
+    color: darkorange;
+    font-size: 80px;
+    text-align: center;
+    background-color: darkgreen;
+  }
+  
+  h3{
+    color: darkorange;
+    font-size: 30px;
+    text-align: center;
+  }
+  
+  p{
+   color: darkgreen;
+    text-align: center;
+    line-height: 2
+  }
+  
+  
